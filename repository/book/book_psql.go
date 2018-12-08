@@ -1,7 +1,7 @@
 package bookRepository
 
 import (
-	"books-list/models"
+	"books-list-jwt/models"
 	"database/sql"
 	"log"
 )

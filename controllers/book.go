@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"books-list/models"
-	"books-list/repository/book"
+	"books-list-jwt/models"
+	"books-list-jwt/repository/book"
 	"database/sql"
 	"encoding/json"
 	"log"
